@@ -8,9 +8,9 @@ public class Main {
         double c = 1.7;
         System.out.println(d+c);
 
-//        Integer x = null;
-//
-//        incrementByOne(x);
+        Integer integer = 0;
+
+        incrementByOne(++integer);
 
         System.out.println(8<<3);
         System.out.println(8>>50);
