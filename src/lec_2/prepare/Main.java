@@ -28,8 +28,8 @@ public class Main {
         System.out.println(sym);
         System.out.println(symB);
 
-        int big = 128;
-        byte b = (byte) big;
+        int big = 257;
+        byte b = (byte) big; //280-256
         System.out.println(b);
 
         System.out.println(128 % 256);
