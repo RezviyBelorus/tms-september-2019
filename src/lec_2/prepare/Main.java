@@ -27,6 +27,12 @@ public class Main {
         System.out.println(myChar);
         System.out.println(sym);
         System.out.println(symB);
+
+        int big = 128;
+        byte b = (byte) big;
+        System.out.println(b);
+
+        System.out.println(128 % 256);
     }
 
 
