@@ -2,3 +2,9 @@
 2. Типы данных: byte, short, char, int, long, double, float
 3. Приведение типов
 4. +, -, /, *, >>, <<, приоритет операций
+
+
+Info:
+Побитовые операции:
+https://metanit.com/java/tutorial/2.13.php
+https://javarush.ru/groups/posts/1925-pobitovihe-operacii
