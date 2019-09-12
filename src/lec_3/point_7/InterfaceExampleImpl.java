@@ -18,4 +18,9 @@ public class InterfaceExampleImpl implements InterfaceExample {
     public Integer getAge() {
         return this.age;
     }
+
+    public static void main(String[] args) {
+        int x = 6;
+        double d= x;
+    }
 }

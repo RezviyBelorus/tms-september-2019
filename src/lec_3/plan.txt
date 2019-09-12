@@ -11,3 +11,8 @@
 
 Info:
 https://metanit.com/java/tutorial/3.1.php
+
+Почему иногда обертки примитивов могут давать "true" при сравнении через "=="
+If the value p being boxed is true, false, a byte, or a char in the range \u0000 to \u007f,
+or an int or short number between -128 and 127 (inclusive), then let r1 and r2 be
+the results of any two boxing conversions of p. It is always the case that r1 == r2.
