@@ -1,5 +1,7 @@
 1. String
 2. StringBuilder
 3. StringBuffer
+4. Как измерять время
 
 Info:
+Глава 7: https://metanit.com/java/tutorial/7.1.php
