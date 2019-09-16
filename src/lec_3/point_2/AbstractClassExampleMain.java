@@ -27,6 +27,5 @@ public class AbstractClassExampleMain {
 
         egor.incrementAge();
         egor.showAge();
-
     }
 }
