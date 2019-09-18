@@ -1,0 +1,22 @@
+1. If/else, if-else-if
+2. Switch, default
+3. Тернарный оператор
+4. Массивы, двумерные массивы
+5. For
+6. While
+7. Do while
+8. Continue, break, return
+
+Info:
+1. Условные конструкции
+https://metanit.com/java/tutorial/2.5.php
+
+2. Циклы
+https://metanit.com/java/tutorial/2.6.php
+
+
+Типы, которые могут использоваться в Switch:
+1. byte, short, int, char
+2. Их обертки: Byte, Short, Integer, Character
+3. String
+4. Enum Types
