@@ -2,10 +2,9 @@
 2. Switch, default
 3. Тернарный оператор
 4. Массивы, двумерные массивы
-5. For
-6. While
-7. Do while
-8. Continue, break, return
+5. For, foreach
+6. While, Do while
+7. Continue, break, return
 
 Info:
 1. Условные конструкции
