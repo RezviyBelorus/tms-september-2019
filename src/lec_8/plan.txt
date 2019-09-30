@@ -5,3 +5,6 @@
 Info:
 SOLID:
 https://ru.wikipedia.org/wiki/SOLID_(объектно-ориентированное_программирование)
+
+Статья про сложность алгоритмов:
+https://tproger.ru/articles/computational-complexity-explained/
