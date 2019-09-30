@@ -1,9 +1,10 @@
-package lec_8.classwork;
+package lec_8.classwork.point_3;
 
 public class PrivateClub {
-    private String name;
+    private final String name;
 
-    private PrivateClub() {
+    public PrivateClub() {
+        this("Ahmed");
     }
 
     private PrivateClub(String name) {
