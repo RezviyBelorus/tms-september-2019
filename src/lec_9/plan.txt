@@ -7,4 +7,4 @@
 
 Info:
 1. https://metanit.com/java/tutorial/3.11.php
-2. https://habr.com/en/post/207360/
+2. https://habr.com/ru/post/207360/

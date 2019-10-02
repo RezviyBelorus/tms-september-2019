@@ -12,6 +12,7 @@ public class Point_2 {
 
         System.out.println(myCharNum);
         System.out.println(myCharSym);
+        System.out.println("myCharUTF8=" + (int) myCharUTF8);
         System.out.println(myCharUTF8);
 
         System.out.println(myCharNum + myShort);
