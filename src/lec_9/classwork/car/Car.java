@@ -1,4 +1,4 @@
-package lec_9.classwork.rrrr;
+package lec_9.classwork.car;
 
 public class Car {
     private String name;
