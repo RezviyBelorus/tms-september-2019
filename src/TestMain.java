@@ -34,8 +34,7 @@ public class TestMain {
         System.out.println(strings);
 
 
-        List<Integer> list = new ArrayList<>();
-        list.add(null);
+
 
         Map<String, Integer> map = new TreeMap<>();
 //        map.put(null, 1);
@@ -52,6 +51,11 @@ public class TestMain {
         values.remove(33);
 
         System.out.println(map);
+
+        ArrayList<Integer> list = new ArrayList<>();
+        list.add(null);
+        list.add(22);
+        list.add(33);
 
     }
 }
