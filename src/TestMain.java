@@ -1,13 +1,6 @@
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Deque;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
+import java.util.*;
 
 public class TestMain {
     private static final String DIRECTORY = "src";
@@ -56,6 +49,7 @@ public class TestMain {
         list.add(null);
         list.add(22);
         list.add(33);
+
 
     }
 }

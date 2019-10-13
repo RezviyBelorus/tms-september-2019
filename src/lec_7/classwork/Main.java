@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        try (FileInputStream fis = new FileInputStream("src/lec_7/classwork/text.txt")){
+        try (FileInputStream fis = new FileInputStream("src/lec_7/lec_12.classwork/text.txt")){
             byte[] buf = new byte[1];
 
             while (fis.read(buf) != -1) {

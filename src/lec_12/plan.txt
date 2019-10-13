@@ -1,0 +1,9 @@
+1. Deadlock
+2. Callable
+3. Semaphore
+4. CountDownLatch
+5. Reentrant lock
+
+Info:
+https://habr.com/ru/post/277669/
+https://metanit.com/java/tutorial/8.10.php
