@@ -5,8 +5,6 @@ public class DeadlockExample {
     public static Object Lock2 = new Object();
 
     public static void main(String[] args) {
-        DeadlockExample example = new DeadlockExample();
-
         ThreadDemo1 T1 = new ThreadDemo1();
         ThreadDemo2 T2 = new ThreadDemo2();
         T1.start();

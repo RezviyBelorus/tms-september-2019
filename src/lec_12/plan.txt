@@ -1,9 +1,10 @@
 1. Deadlock
 2. Callable
-3. Semaphore
-4. CountDownLatch
-5. Reentrant lock
-6. ExecutorService
+3. Exchanger
+4. Semaphore
+5. CountDownLatch
+6. Reentrant lock
+7. ExecutorService
 
 Info:
 https://habr.com/ru/post/277669/
